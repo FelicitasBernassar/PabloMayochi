@@ -606,9 +606,6 @@ data_properati_non_CABA %>%
   labs(title = "Evolución de la variable precio de venta - Provincia de Santa Fe 2020 - 2021", 
        subtitle  = "Fuentes: PROPERATI")
 ```
-Hola 
-
-
 
 
 
